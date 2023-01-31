@@ -1,0 +1,16 @@
+.DS_Store
+frontend/.DS_Store
+backend/.DS_Store
+#node modules
+frontend/node_modules/*
+backend/node_modules/*
+node_modules
+
+#.env
+frontend/.env
+backend/.env
+backend/db
+
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/dbnavigator.xml
