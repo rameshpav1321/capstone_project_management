@@ -12,6 +12,10 @@
 4. MySQL
 5. JavaScript
 
+## Demo:
+
+![Demo](CapstoneProductVideo.mp4)
+
 ## Code Structure:
 
 - Backend:
