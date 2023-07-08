@@ -14,7 +14,8 @@
 
 ## Demo:
 
-![Demo](CapstoneProductVideo.mp4)
+https://github.com/rameshpav1321/capstone_project_management/assets/90695775/d6cb7aed-6899-4e84-ada3-b11b3de3a61e
+
 
 ## Code Structure:
 
